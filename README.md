@@ -6,5 +6,5 @@ Download your bits and bobs you want to keep.
 
 Have fun!
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nathalievladis/Handy-Notebooks/master)
 
